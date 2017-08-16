@@ -1,5 +1,5 @@
 /* Home Styles */
-
+/* Defined: .container, .grid. */
 .container {
   display:flex;
   flex-direction:column;
